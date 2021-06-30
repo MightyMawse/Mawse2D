@@ -1,0 +1,4 @@
+game:Mawse2D
+title:Mawse2D
+player:playerTex
+menu:true
